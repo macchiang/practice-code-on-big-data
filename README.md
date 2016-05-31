@@ -1,2 +1,2 @@
-# My practice code on big data
-This project is my practice code on big data training course.
+# My practice on big data
+This project is my practice on big data training course.
