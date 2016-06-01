@@ -1,6 +1,7 @@
 # My practice on big data
 This project is my practice on big data training course.
 ##Notes
+####Scrapy
 If you got this message from scrapy, please change ROBOTSTXT_OBEY to False in settings.py (ROBOTSTXT_OBEY=False).
 ```
 2016-07-03 09:33:38 [scrapy] DEBUG: Forbidden by robots.txt: <GET http://pda.528
